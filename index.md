@@ -6,6 +6,9 @@ tagline:
 {% include JB/setup %}
 
 
+* [О проекте](/pages/about.html)
+* [Git](/pages/git.html)
+
 
 <ul class="posts">
   {% for post in site.posts %}
