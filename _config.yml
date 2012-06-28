@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : The Book of Knowledge
-tagline: 
+tagline: When in doubt consult the book of knowledge
 author :
   name : Evercode Lab
   email : hello@evercodelab.com

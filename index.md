@@ -8,6 +8,17 @@ tagline:
 
 * [О проекте](/pages/about.html)
 * [Git](/pages/git.html)
+* [IDE](/pages/ide.html) - general page with links to subpages (concrete editors and IDEs)
+* [Tests](/pages/tests.html)
+* [Frameworks](/pages/frameworks.html) - general page with links to subpages (concrete editors and IDEs)
+* [Coding standards](/pages/coding-standards.html)
+* [Deployment](/pages/deployment.html)
+* [Creative Time](/pages/creative-time.html)
+* [Environments](/pages/environments.html)
+* [Must read](/pages/must-read.html)
+* [Services](/pages/services.html)
+* [Blogs](/pages/blogs.html)
+* [Books](/pages/books.html)
 
 
 <ul class="posts">
