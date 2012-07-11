@@ -5,13 +5,23 @@ tagline:
 ---
 {% include JB/setup %}
 
+The book of knowledge – база знаний компании [Evercode Lab](http://www.evercodelab.com). Любой участник команды, может добавить в проект данные, которые считает полезными для себя и других. Любой посетитель сайта может предложить свои добавления либо через комментарии, либо через issues или pull request на github.
 
-* [О проекте](/pages/about.html)
+The book of knowledge работает на [jekyll](https://github.com/mojombo/jekyll) с использованием [jekyllbootstrap](http://jekyllbootstrap.com/). Перед добавлением и изменением информации желательно ознакомиться.
+
+Проект хостится на [github:pages](http://pages.github.com/).
+
+
 * [Git](/pages/git.html)
+* [Naming conventions](/pages/naming-conventions.html)
+* [Design](/pages/design.html)
+* [Utilities](/pages/utilities.html)
+
+In progress:
+
 * [IDE](/pages/ide.html) - general page with links to subpages (concrete editors and IDEs)
 * [Tests](/pages/tests.html)
 * [Frameworks](/pages/frameworks.html) - general page with links to subpages (concrete editors and IDEs)
-* [Coding standards](/pages/coding-standards.html)
 * [Deployment](/pages/deployment.html)
 * [Creative Time](/pages/creative-time.html)
 * [Environments](/pages/environments.html)
