@@ -16,13 +16,13 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 * [Naming conventions](/pages/naming-conventions.html)
 * [Design](/pages/design.html)
 * [Utilities](/pages/utilities.html)
+* [Deployment](/pages/deployment.html)
 
 In progress:
 
 * [IDE](/pages/ide.html) - general page with links to subpages (concrete editors and IDEs)
 * [Tests](/pages/tests.html)
 * [Frameworks](/pages/frameworks.html) - general page with links to subpages (concrete editors and IDEs)
-* [Deployment](/pages/deployment.html)
 * [Creative Time](/pages/creative-time.html)
 * [Environments](/pages/environments.html)
 * [Must read](/pages/must-read.html)
