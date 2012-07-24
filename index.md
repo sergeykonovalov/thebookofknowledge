@@ -17,6 +17,7 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 * [Design](/pages/design.html)
 * [Utilities](/pages/utilities.html)
 * [Deployment](/pages/deployment.html)
+* [List of educational resources](/pages/educational-resources.html)
 
 In progress:
 
