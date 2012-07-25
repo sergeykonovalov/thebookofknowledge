@@ -12,6 +12,7 @@ description: ""
 * [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)
 * [Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)
 * [git - the simple guide](http://rogerdudler.github.com/git-guide/)
+* [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
 
 # Issues
 

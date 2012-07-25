@@ -14,10 +14,10 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 
 * [Git](/pages/git.html)
 * [Naming conventions](/pages/naming-conventions.html)
-* [Design](/pages/design.html)
-* [Utilities](/pages/utilities.html)
 * [Deployment](/pages/deployment.html)
+* [Utilities](/pages/utilities.html)
 * [List of educational resources](/pages/educational-resources.html)
+* [Design](/pages/design.html)
 
 In progress:
 

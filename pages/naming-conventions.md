@@ -11,6 +11,21 @@ description: ""
 
 Договоренность касается проектов, где есть необходимость прописывать виртуальный хост (т.е. нет встроенного сервака).
 
+## Формы в проектах на Symfony2
+
+Чтобы не было сомнений, рекомендуется файлы форм в бандле помещать в `Form/Type`. Примерно так:
+
+{% highlight bash %}
+Form
+└── Type
+    ├── ChangePasswordFormType.php
+    ├── GroupFormType.php
+    ├── ProfileFormType.php
+    ├── RegistrationFormType.php
+    ├── ResettingFormType.php
+    └── UsernameFormType.php
+{% endhighlight %}
+
 ## Именование полей сущностей БД
 
 * `id` для primary key. Не надо делать приставку из названия таблицы.
