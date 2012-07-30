@@ -13,6 +13,7 @@ description: ""
 * [Git Is Simpler Than You Think](http://nfarina.com/post/9868516270/git-is-simpler)
 * [git - the simple guide](http://rogerdudler.github.com/git-guide/)
 * [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
+* [Some more git tips — just one a time](http://gitready.com/)
 
 # Issues
 
