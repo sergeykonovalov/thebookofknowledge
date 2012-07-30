@@ -18,12 +18,12 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 * [Utilities](/pages/utilities.html)
 * [List of educational resources](/pages/educational-resources.html)
 * [Design](/pages/design.html)
+* [Frameworks](/pages/frameworks.html) 
 
 In progress:
 
-* [IDE](/pages/ide.html) - general page with links to subpages (concrete editors and IDEs)
+* [IDE](/pages/ide.html) — general page with links to subpages (concrete editors and IDEs)
 * [Tests](/pages/tests.html)
-* [Frameworks](/pages/frameworks.html) - general page with links to subpages (concrete editors and IDEs)
 * [Creative Time](/pages/creative-time.html)
 * [Environments](/pages/environments.html)
 * [Must read](/pages/must-read.html)
