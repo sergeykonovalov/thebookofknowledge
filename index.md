@@ -19,6 +19,7 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 * [List of educational resources](/pages/educational-resources.html)
 * [Design](/pages/design.html)
 * [Frameworks](/pages/frameworks.html) 
+* [Books](/pages/books.html)
 
 In progress:
 
@@ -29,7 +30,6 @@ In progress:
 * [Must read](/pages/must-read.html)
 * [Services](/pages/services.html)
 * [Blogs](/pages/blogs.html)
-* [Books](/pages/books.html)
 
 
 <ul class="posts">

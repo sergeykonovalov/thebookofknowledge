@@ -10,3 +10,5 @@ description: ""
 Здесь, предлагается собирать полезную для общего развития информацию по дизайну.
 
 * [Startups, this is how design works](http://startupsthisishowdesignworks.com/)
+* [books](/pages/books.html#design) — список книг по дизайну в нашей маленькой
+  библиотеке
