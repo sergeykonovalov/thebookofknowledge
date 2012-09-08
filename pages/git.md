@@ -14,6 +14,7 @@ description: ""
 * [git - the simple guide](http://rogerdudler.github.com/git-guide/)
 * [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
 * [Some more git tips — just one a time](http://gitready.com/)
+* [GitCasts](http://gitcasts.com/)
 
 # Issues
 
