@@ -63,4 +63,5 @@ git archive --format=tar origin/master | gzip -9c | ssh user@yourserver.com "cd 
 
 ## Полезно почитать
 
-[Infrastructure Debt](http://www.littlehart.net/atthekeyboard/2011/11/03/infrastructure-debt/)
+* [Infrastructure Debt](http://www.littlehart.net/atthekeyboard/2011/11/03/infrastructure-debt/)
+* [Advanced server definitions in Capistrano](http://railsware.com/blog/2011/11/02/advanced-server-definitions-in-capistrano/)
