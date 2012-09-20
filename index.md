@@ -11,14 +11,22 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 
 Проект хостится на [github:pages](http://pages.github.com/).
 
+Техническое
 
 * [Git](/pages/git.html)
 * [Naming conventions](/pages/naming-conventions.html)
 * [Deployment](/pages/deployment.html)
 * [Utilities](/pages/utilities.html)
+* [Frameworks](/pages/frameworks.html) 
+
+General workflow
+
+* [Про технические задания](/pages/requirements_specification.html)
+
+Education and Enlightenment
+
 * [List of educational resources](/pages/educational-resources.html)
 * [Design](/pages/design.html)
-* [Frameworks](/pages/frameworks.html) 
 * [Books](/pages/books.html)
 
 In progress:
