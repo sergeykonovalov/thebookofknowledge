@@ -21,7 +21,8 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 
 General workflow
 
-* [Про технические задания](/pages/requirements_specification.html)
+* [Про технические задания](/pages/requirements-specification.html)
+
 
 Education and Enlightenment
 
