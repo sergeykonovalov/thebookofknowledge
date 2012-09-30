@@ -22,6 +22,7 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 General workflow
 
 * [Миссия](/pages/mission.html)
+* [«Че там по задачам?»](/pages/i-have-nothing-to-do.html)
 * [Про технические задания](/pages/requirements-specification.html)
 
 
