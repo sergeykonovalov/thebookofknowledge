@@ -11,7 +11,7 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 
 Проект хостится на [github:pages](http://pages.github.com/).
 
-Техническое
+## Техническое
 
 * [Git](/pages/git.html)
 * [Naming conventions](/pages/naming-conventions.html)
@@ -19,22 +19,26 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 * [Utilities](/pages/utilities.html)
 * [Frameworks](/pages/frameworks.html) 
 
-General workflow
+## Редакторы
+
+* [PHPStorm](/pages/phpstorm.html)
+* [Sublime Text 2](/pages/sublime-text-2.html)
+
+## General workflow
 
 * [Миссия](/pages/mission.html)
 * [«Че там по задачам?»](/pages/i-have-nothing-to-do.html)
 * [Про технические задания](/pages/requirements-specification.html)
 
 
-Education and Enlightenment
+## Education and Enlightenment
 
 * [List of educational resources](/pages/educational-resources.html)
 * [Design](/pages/design.html)
 * [Books](/pages/books.html)
 
-In progress:
+## In progress:
 
-* [IDE](/pages/ide.html) — general page with links to subpages (concrete editors and IDEs)
 * [Tests](/pages/tests.html)
 * [Creative Time](/pages/creative-time.html)
 * [Environments](/pages/environments.html)
