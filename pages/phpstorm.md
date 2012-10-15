@@ -20,6 +20,10 @@ description: ""
 * `⌘ + N` - go to class
 * `⌘ + E` – recent files
 * `⌘ + Shift + X` - Command Line Tools Console
+* `⌘ + B` – go to declaration
+* `⌘ + Alt + ←` - go back from declaration
+* `⌘ + U` – go to super-method/super-class
+
 
 ## Settings
 
