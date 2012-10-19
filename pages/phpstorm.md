@@ -64,13 +64,18 @@ $request = $this->get('request');
 * [IdeaVIM](http://plugins.jetbrains.net/plugin/?webide&id=164)
 * [TabSwitch](http://plugins.jetbrains.net/plugin/?webide&id=179)
 
+## Reformatting code
+
+`⌘ + Alt + L` – Очень удобное, когда приходится иметь дело с плохо форматированным кодом: <http://www.jetbrains.com/phpstorm/webhelp/reformatting-source-code.html>
+
+
 ## Links
 
 * [PhpStorm Docs & Demos](http://www.jetbrains.com/phpstorm/documentation/index.html)
 * [Exporting and Importing Settings](http://www.jetbrains.com/phpstorm/webhelp/exporting-and-importing-settings.html)
 * [Project and IDE Settings](http://www.jetbrains.com/phpstorm/webhelp/project-and-ide-settings.html)
 * [Programmer Productivity: Emacs versus IntelliJ IDEA](http://henrikwarne.com/2012/06/17/programmer-productivity-emacs-versus-intellij-idea/)
-
+* [Полезные плагины для PhpStorm](http://rmcreative.ru/blog/post/poleznye-plaginy-dlja-phpstorm)
 
 ## Хранение настроек на GitHub
 
