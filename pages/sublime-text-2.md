@@ -25,6 +25,8 @@ description: ""
 * `⌘ + D` – select word
 * `Control + ⌘ + Shift + M` – select surrounding brackets
 * `⌘ + Shift + A` – select the whole tag
+* `⌘ + Shift + K` - delete line
+* `⌘ + I` - incremental find
 
 
 ## Column Selection (OS X)
@@ -69,6 +71,10 @@ View > Layout – Different views
 * [Sublime Text 2 Snippet for PHP getter and setter generation](http://akrabat.com/software/sublime-text-2-snippet-for-php-getter-and-setter-generation/)
 * <http://screencast.com/t/kBHOJFSoVmX8>
 * <https://github.com/EvercodeLab/sublime2-snippets>
+
+## Key BIndings
+
+** <https://gist.github.com/3951815>
 
 ## Links and Sources
 
