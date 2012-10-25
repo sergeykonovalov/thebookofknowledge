@@ -74,7 +74,7 @@ View > Layout – Different views
 
 ## Key BIndings
 
-** <https://gist.github.com/3951815>
+* <https://gist.github.com/3951815>
 
 ## Links and Sources
 
