@@ -27,7 +27,7 @@ description: ""
 * `⌘ + Shift + A` – select the whole tag
 * `⌘ + Shift + K` - delete line
 * `⌘ + I` - incremental find
-
+* `⌘ + Opt + P` - show source type
 
 ## Column Selection (OS X)
 
