@@ -79,6 +79,7 @@ View > Layout – Different views
 * [Sublime Text 2 – Useful Shortcuts (Mac OS X)](https://gist.github.com/1207002)
 * [9 REASONS WHY SUBLIME TEXT 2 SHOULD BE YOUR NEXT IDE](http://www.trymbill.is/9-reasons-why-sublime-text-2-should-be-your-next-ide/)
 * [Some things beginners might not know about Sublime Text](http://blog.alainmeier.com/post/27255145114/some-things-beginners-might-not-know-about-sublime-text)
+* [Configuring Sublime Text 2](http://www.mutuallyhuman.com/blog/2012/10/18/configuring-sublime-text-2/)
 
 
 ## How to store config, packages and setting on github:
