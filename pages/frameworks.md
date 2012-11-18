@@ -7,11 +7,14 @@ description: "Frameworks that we use in our work"
 
 # PHP Frameworks
 
+[Symfony 2][symfony] — фреймворк, который мы используем как основной для разработки
+на PHP.
+
 # JavaScript Frameworks
 
-* [jQuery](http://jquery.com/) — один из самых популярных на данный момент
+* [jQuery][jQuery] — один из самых популярных на данный момент
   JavaScript фреймворков.
-* [jQuery docs](http://docs.jquery.com/) — официальная документация по jQuery
+* [jQuery docs][jQuery-docs] — официальная документация по jQuery
 
 ## Useful jQuery plugins
 
@@ -20,4 +23,14 @@ description: "Frameworks that we use in our work"
 плагинов, зачастую, не самого лучшего качества. Тут предлагаю собирать ссылки
 на самые полезные и нужные.
 
-* [jQuery prettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/) — Один из самых удобных плагинов для создания галерей.
+* [jQuery prettyPhoto][prettyPhoto] — Один из самых удобных плагинов для 
+создания галерей.
+* [slidesjs][slidesjs] — Простой, но опять же очень удобный jQuery плагин для 
+создания слайдеров контента.
+
+<!-- Links -->
+[symfony]: http://symfony.com/
+[jQuery-docs]: http://docs.jquery.com/
+[jQuery]: http://jquery.com/
+[prettyPhoto]: http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
+[slidesjs]: http://slidesjs.com/
