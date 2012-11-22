@@ -8,3 +8,4 @@ description: ""
 Полезные утилиты для работы.
 
 * [Ack](http://betterthangrep.com/)
+* [MailCatcher](http://mailcatcher.me/) – добровольно-принудительно рекомендовано для работы с почтой на локальных тачках
