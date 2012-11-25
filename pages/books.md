@@ -12,6 +12,8 @@ description: ""
 
 * ["Effective Programming: More Than Writing Code"](http://www.codinghorror.com/blog/2012/07/coding-horror-the-book.html), Jeff Atwood
 * "Rework" by 37signals
+* ["The Pragmatic Programmer: From Journeyman to Master"](http://www.amazon.com/exec/obidos/ASIN/020161622X/codinghorror-20), Andrew Hunt, David Thomas
+* [Recommended Reading for Developers](http://www.codinghorror.com/blog/2004/02/recommended-reading-for-developers.html)
 
 
 ## Программирование — языки

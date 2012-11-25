@@ -18,6 +18,7 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 * [Deployment](/pages/deployment.html)
 * [Utilities](/pages/utilities.html)
 * [Frameworks](/pages/frameworks.html) 
+* [The Pragmatic Programmer Quick Reference Guide](/pages/pragprogref.html)
 
 ## Редакторы
 
