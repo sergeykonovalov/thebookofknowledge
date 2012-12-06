@@ -14,7 +14,7 @@ description: ""
 * "Rework" by 37signals
 * ["The Pragmatic Programmer: From Journeyman to Master"](http://www.amazon.com/exec/obidos/ASIN/020161622X/codinghorror-20), Andrew Hunt, David Thomas
 * [Recommended Reading for Developers](http://www.codinghorror.com/blog/2004/02/recommended-reading-for-developers.html)
-
+* [Нетехнические книги для IT-специалистов](https://bagcheck.com/bag/7732--it-)
 
 ## Программирование — языки
 

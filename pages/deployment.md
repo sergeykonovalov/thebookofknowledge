@@ -41,6 +41,12 @@ cap deploy:web:disable - отключить сервис и показать mai
 cap deploy:web:enable - включить сервис
 {% endhighlight %}
 
+
+## Автоматизация добавления задач в cron
+
+* gem [Whenever](https://github.com/javan/whenever)
+* [Symfony2, Deploy и Cron](http://blog.evercodelab.com/symfony2-and-cron/)
+
 ## Простой, быстрый, но ограниченный способ
 
 [Описание в блоге Evercode Lab](http://blog.evercodelab.com/easiest-deployment-with-git-and-ssh/)
