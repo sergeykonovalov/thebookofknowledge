@@ -11,8 +11,8 @@ description: ""
 
 * `⌘ + D` – Select word
 * `⌘ + L` – Select strings
-* `⌘ + Shift + A` – Select the whole tag
-* `Control + ⌘ + Shift + M` – Select surrounding brackets
+* `⌘ + Shift + A` – Select tag content
+* `Control + Shift + M` – Select content between brackets or parentheses
 
 **View**
 
