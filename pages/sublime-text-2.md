@@ -8,17 +8,20 @@ description: ""
 ## Hotkeys
 
 **Select**
+
 * `⌘ + D` – Select word
 * `⌘ + L` – Select strings
 * `⌘ + Shift + A` – Select the whole tag
 * `Control + ⌘ + Shift + M` – Select surrounding brackets
 
 **View**
+
 * `⌘ + K, ⌘ + B` – Show-Hide sidebar
 * `Shift + ⌘ + F` - Fullscreen
 * `Control + Shift + ⌘ + F` - Distraction Free Mode
 
 **Edit**
+
 * `⌘ + Shift + D` — Duplicate line
 * `⌘ + Shift + K` - Delete line
 * `⌘ + ]` - Indent selection, `⌘ + [` - Unindent selection
@@ -26,11 +29,13 @@ description: ""
 * `⌘ + J` – Join lines
 
 **Tools**
+
 * `Shift + ⌘ + P` – Sublime’s command palette
 * ``Control + ` `` – Console
 * `⌘ + Option + P` - Show source type
 
 **Navigation**
+
 * `⌘ + P` – Lightning-Fast File Switching
 * `⌘ + P, #` – Go to word
 * `⌘ + R` – Go to symbol (function or class)
@@ -41,6 +46,7 @@ description: ""
 * `⌘ + Shift + G` - Find previous
 
 **Preferences**
+
 * `⌘ + ,` – Settings - User
 
 ## Column Selection (OS X)
