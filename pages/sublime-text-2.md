@@ -7,39 +7,40 @@ description: ""
 
 ## Hotkeys
 
-####  Select
+**Select**
 * `⌘ + D` – Select word
 * `⌘ + L` – Select strings
 * `⌘ + Shift + A` – Select the whole tag
 * `Control + ⌘ + Shift + M` – Select surrounding brackets
 
-#### View
+**View**
 * `⌘ + K, ⌘ + B` – Show-Hide sidebar
 * `Shift + ⌘ + F` - Fullscreen
 * `Control + Shift + ⌘ + F` - Distraction Free Mode
 
-#### Edit
+**Edit**
 * `⌘ + Shift + D` — Duplicate line
 * `⌘ + Shift + K` - Delete line
 * `⌘ + ]` - Indent selection, `⌘ + [` - Unindent selection
 * `⌘ + Shift + R` - Reindent selected lines
 * `⌘ + J` – Join lines
 
-#### Tools
+**Tools**
 * `Shift + ⌘ + P` – Sublime’s command palette
 * ``Control + ` `` – Console
 * `⌘ + Option + P` - Show source type
 
-#### Navigation
+**Navigation**
 * `⌘ + P` – Lightning-Fast File Switching
 * `⌘ + P, #` – Go to word
 * `⌘ + R` – Go to symbol (function or class)
 * `Control + G` = `⌘ + P, :` - Go to line 
 * `⌘ + F2` – Add bookmarks and use F2 to jump to the next one
 * `⌘ + I` - Incremental find
-* * `⌘ + G` - Find next, `⌘ + Shift + G` - Find previous
+* `⌘ + G` - Find next
+* `⌘ + Shift + G` - Find previous
 
-#### Preferences
+**Preferences**
 * `⌘ + ,` – Settings - User
 
 ## Column Selection (OS X)
@@ -76,7 +77,7 @@ View > Layout – Different views
 
 The most common are 
 * `⌘ + Option + 1` - Single view
-* `⌘ + Option + 2` - 2 columns
+* `⌘ + Option + 2` - 2-column view
 
 ## Packages
 
