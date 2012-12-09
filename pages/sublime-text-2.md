@@ -25,7 +25,6 @@ description: ""
 * `⌘ + Shift + D` — Duplicate line
 * `⌘ + Shift + K` - Delete line
 * `⌘ + ]` - Indent selection, `⌘ + [` - Unindent selection
-* `⌘ + Shift + R` - Reindent selected lines
 * `⌘ + J` – Join lines
 
 **Tools**
