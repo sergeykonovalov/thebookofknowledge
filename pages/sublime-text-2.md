@@ -5,29 +5,42 @@ description: ""
 ---
 {% include JB/setup %}
 
-
 ## Hotkeys
 
-* `Shift + ⌘ + P` – Sublime’s command palette
-* `⌘ + P` – Lightning-Fast File Switching
-* `⌘ + J` – join lines
-* ``Control + ` `` – console
-* `⌘ + ,` – settings (User)
-* `⌘ + K, ⌘ + B` – show-hide sidebar
+####  Select
+* `⌘ + D` – Select word
+* `⌘ + L` – Select strings
+* `⌘ + Shift + A` – Select the whole tag
+* `Control + ⌘ + Shift + M` – Select surrounding brackets
+
+#### View
+* `⌘ + K, ⌘ + B` – Show-Hide sidebar
 * `Shift + ⌘ + F` - Fullscreen
 * `Control + Shift + ⌘ + F` - Distraction Free Mode
-* `⌘ + Shift + D` — duplicate line
-* `⌘ + L` – select strings
-* `⌘ + R` – go to function or smith
-* `⌘ + p, #` – and you’ll instantly see a tree of your document
-* `Control + g` = `⌘ + p` and appending the `:` – go to line
-* `⌘ + F2` – add bookmarks and use F2 to jump to the next one
-* `⌘ + D` – select word
-* `Control + ⌘ + Shift + M` – select surrounding brackets
-* `⌘ + Shift + A` – select the whole tag
-* `⌘ + Shift + K` - delete line
-* `⌘ + I` - incremental find
-* `⌘ + Opt + P` - show source type
+
+#### Edit
+* `⌘ + Shift + D` — Duplicate line
+* `⌘ + Shift + K` - Delete line
+* `⌘ + ]` - Indent selection, `⌘ + [` - Unindent selection
+* `⌘ + Shift + R` - Reindent selected lines
+* `⌘ + J` – Join lines
+
+#### Tools
+* `Shift + ⌘ + P` – Sublime’s command palette
+* ``Control + ` `` – Console
+* `⌘ + Option + P` - Show source type
+
+#### Navigation
+* `⌘ + P` – Lightning-Fast File Switching
+* `⌘ + P, #` – Go to word
+* `⌘ + R` – Go to symbol (function or class)
+* `Control + G` = `⌘ + P, :` - Go to line 
+* `⌘ + F2` – Add bookmarks and use F2 to jump to the next one
+* `⌘ + I` - Incremental find
+* * `⌘ + G` - Find next, `⌘ + Shift + G` - Find previous
+
+#### Preferences
+* `⌘ + ,` – Settings - User
 
 ## Column Selection (OS X)
 
@@ -61,6 +74,10 @@ To enable multi-selection, you have several options:
 
 View > Layout – Different views
 
+The most common are 
+* `⌘ + Option + 1` - Single view
+* `⌘ + Option + 2` - 2 columns
+
 ## Packages
 
 * <http://wbond.net/sublime_packages/package_control>
@@ -72,7 +89,7 @@ View > Layout – Different views
 * <http://screencast.com/t/kBHOJFSoVmX8>
 * <https://github.com/EvercodeLab/sublime2-snippets>
 
-## Key BIndings
+## Key Bindings
 
 * <https://gist.github.com/3951815>
 
