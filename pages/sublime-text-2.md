@@ -26,6 +26,10 @@ description: ""
 * `⌘ + Shift + K` - Delete line
 * `⌘ + ]` - Indent selection, `⌘ + [` - Unindent selection
 * `⌘ + J` – Join lines
+* `⌘ + Option + [` - Fold
+* `⌘ + Option + ]` - Unfold
+* `⌘ + K, ⌘ + T` - Fold tag attributes
+* `⌘ + K, ⌘ + J` - Unfold all
 
 **Tools**
 
