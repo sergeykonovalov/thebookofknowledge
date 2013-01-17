@@ -10,6 +10,8 @@ description: "Frameworks that we use in our work"
 [Symfony 2][symfony] — фреймворк, который мы используем как основной для разработки
 на PHP.
 
+[Symfony2cheatsheet](http://www.symfony2cheatsheet.com/)
+
 # JavaScript Frameworks
 
 * [jQuery][jQuery] — один из самых популярных на данный момент
