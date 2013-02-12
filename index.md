@@ -30,7 +30,7 @@ The book of knowledge работает на [jekyll](https://github.com/mojombo/
 * [Миссия](/pages/mission.html)
 * [«Че там по задачам?»](/pages/i-have-nothing-to-do.html)
 * [Про технические задания](/pages/requirements-specification.html)
-* [Работа с клиентами](/pages/working-with-clients.html)
+* [Задачи и работа с клиентами](/pages/working-with-clients.html)
 
 
 ## Education and Enlightenment
