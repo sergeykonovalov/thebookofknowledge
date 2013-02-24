@@ -126,10 +126,6 @@ The most common are
 * <http://screencast.com/t/kBHOJFSoVmX8>
 * <https://github.com/EvercodeLab/sublime2-snippets>
 
-## Key Bindings
-
-* <https://gist.github.com/3951815>
-
 ## Links and Sources
 
 * [Sublime Text 2 Documentation](http://www.sublimetext.com/docs/2/)
