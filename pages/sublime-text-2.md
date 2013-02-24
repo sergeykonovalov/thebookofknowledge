@@ -5,7 +5,7 @@ description: ""
 ---
 {% include JB/setup %}
 
-# Hotkeys
+## Hotkeys
 
 **Select**
 
@@ -52,7 +52,7 @@ description: ""
 
 * `⌘ + ,` – Settings - User
 
-## Column Selection (OS X)
+### Column Selection (OS X)
 
 * Left Mouse Button + Option
 * OR: Middle Mouse Button
@@ -73,7 +73,7 @@ To enable multi-selection, you have several options:
 * Place the cursor over a particular word, and press `⌘ + D` repeatedly to select additional occurrences of that word.
 * Alternatively, add an additional cursor at all occurrences of a word by typing `Alt + F3` on Windows, or `Ctrl + ⌘ + G` on the Mac.
 
-# Packages
+## Packages
 
 [Package Control](http://wbond.net/sublime_packages/package_control)
 
@@ -104,14 +104,14 @@ To enable multi-selection, you have several options:
 
 * [Git](https://github.com/kemayo/sublime-text-2-git)
 
-# Console
+## Console
 
 * view.settings().get('font_face') – get current value of setting using console
 * Sublime Text 2 [includes a command line tool](http://www.sublimetext.com/docs/2/osx_command_line.html), subl, to work with files on the command line. 
 * `ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl`
 
 
-# Views
+## Views
 
 View > Layout – Different views
 
@@ -119,13 +119,13 @@ The most common are
 * `⌘ + Option + 1` - Single view
 * `⌘ + Option + 2` - 2-column view
 
-# Snippets
+## Snippets
 
 * [EvercodeSnippetPack](https://github.com/EvercodeLab/sublime2-snippets)
 * [Initial snippet screencast](http://screencast.com/t/kBHOJFSoVmX8)
 * [Sublime Text 2 Snippet for PHP getter and setter generation](http://akrabat.com/software/sublime-text-2-snippet-for-php-getter-and-setter-generation/)
 
-# Links and Sources
+## Links and Sources
 
 * [Sublime Text 2 Documentation](http://www.sublimetext.com/docs/2/)
 * [Sublime Text 2 Tips and Tricks (Updated)](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
@@ -137,7 +137,7 @@ The most common are
 * [Configuring Sublime Text 2](http://www.mutuallyhuman.com/blog/2012/10/18/configuring-sublime-text-2/)
 
 
-# How to store config, packages and setting on github:
+## How to store config, packages and setting on github:
 
 * <https://github.com/search?langOverride=&q=sublime+config&repo=&start_value=1&type=Repositories>
 * <https://github.com/andres-torres-marroquin/my-sublime-config>
@@ -145,7 +145,7 @@ The most common are
 * <https://github.com/davidsansome/sublime-text-config/blob/master/.gitignore>
 
 
-# Vintage mode
+## Vintage mode
 
 <http://www.sublimetext.com/docs/2/vintage.html>
 
