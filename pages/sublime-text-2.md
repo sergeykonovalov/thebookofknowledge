@@ -10,7 +10,7 @@ description: ""
 **Select**
 
 * `⌘ + D` – Select word
-* `⌘ + L` – Select strings
+* `⌘ + L` – Select string
 * `⌘ + Shift + A` – Select tag content
 * `Control + Shift + M` – Select content between brackets or parentheses
 
@@ -90,7 +90,34 @@ The most common are
 
 ## Packages
 
-* <http://wbond.net/sublime_packages/package_control>
+[Package Control](http://wbond.net/sublime_packages/package_control)
+
+### Interface
+
+* [EvercodeSnippetPack](https://github.com/EvercodeLab/sublime2-snippets)
+* [AllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete) 
+* [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) [ Tip: [How to customize color](https://gist.github.com/JazzJackrabbit/5024243) ]
+* [DetectSyntax](https://github.com/phillipkoebbe/DetectSyntax)
+* [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+* [Theme - Aqua](https://github.com/cafarm/aqua-theme)
+
+### Ruby
+
+* [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests)
+* [RubyMarkers](https://github.com/mmims/sublime-text-2-ruby-markers)
+
+### Web
+
+* [Emmet](https://github.com/sergeche/emmet-sublime)
+* [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin)
+* [js2coffee](https://github.com/nibblebot/sublime-js2coffee)
+* [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2/tree/devel) [ Tip: Better use the version from `devel` branch. ]
+* [Sass](https://github.com/nathos/sass-textmate-bundle)
+* [SASS Build](https://github.com/jaumefontal/SASS-Build-SublimeText2)
+
+### Utility
+
+* [Git](https://github.com/kemayo/sublime-text-2-git)
 
 
 ## Snippets
