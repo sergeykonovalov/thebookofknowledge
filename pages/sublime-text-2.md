@@ -52,7 +52,7 @@ description: ""
 
 * `⌘ + ,` – Settings - User
 
-### Column Selection (OS X)
+## Column Selection (OS X)
 
 * Left Mouse Button + Option
 * OR: Middle Mouse Button
