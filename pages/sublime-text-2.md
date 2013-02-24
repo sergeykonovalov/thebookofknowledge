@@ -92,7 +92,7 @@ The most common are
 
 [Package Control](http://wbond.net/sublime_packages/package_control)
 
-### Interface
+**Interface**
 
 * [EvercodeSnippetPack](https://github.com/EvercodeLab/sublime2-snippets)
 * [AllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete) 
@@ -101,12 +101,12 @@ The most common are
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Theme - Aqua](https://github.com/cafarm/aqua-theme)
 
-### Ruby
+**Ruby**
 
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests)
 * [RubyMarkers](https://github.com/mmims/sublime-text-2-ruby-markers)
 
-### Web
+**Web**
 
 * [Emmet](https://github.com/sergeche/emmet-sublime)
 * [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin)
@@ -115,18 +115,18 @@ The most common are
 * [Sass](https://github.com/nathos/sass-textmate-bundle)
 * [SASS Build](https://github.com/jaumefontal/SASS-Build-SublimeText2)
 
-### Utility
+**Utility**
 
 * [Git](https://github.com/kemayo/sublime-text-2-git)
 
 
 ## Snippets
 
+* [EvercodeSnippetPack](https://github.com/EvercodeLab/sublime2-snippets)
+* [Initial snippet screencast](http://screencast.com/t/kBHOJFSoVmX8)
 * [Sublime Text 2 Snippet for PHP getter and setter generation](http://akrabat.com/software/sublime-text-2-snippet-for-php-getter-and-setter-generation/)
-* <http://screencast.com/t/kBHOJFSoVmX8>
-* <https://github.com/EvercodeLab/sublime2-snippets>
 
-## Links and Sources
+## Links and Sources**
 
 * [Sublime Text 2 Documentation](http://www.sublimetext.com/docs/2/)
 * [Sublime Text 2 Tips and Tricks (Updated)](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
