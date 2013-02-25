@@ -7,10 +7,21 @@ description: "Frameworks that we use in our work"
 
 # PHP Frameworks
 
-[Symfony 2][symfony] — фреймворк, который мы используем как основной для разработки
-на PHP.
+## Symfony
 
-[Symfony2cheatsheet](http://www.symfony2cheatsheet.com/)
+* [Symfony 2][symfony] — фреймворк, который мы используем как основной для разработки
+на PHP.
+* [Symfony2cheatsheet](http://www.symfony2cheatsheet.com/)
+* [Проверка либ на уязвимость через composer.lock](https://security.sensiolabs.org/check)
+* [Knp Bundles](http://knpbundles.com/)
+* [Evercode Lab Symfony Skeleton](https://github.com/EvercodeLab/symfony-skeleton)
+
+Полезные блоги:
+
+* <http://fabien.potencier.org/>
+* <https://igor.io/>
+* <http://everzet.com/>
+* <http://www.craftitonline.com/>
 
 # JavaScript Frameworks
 
