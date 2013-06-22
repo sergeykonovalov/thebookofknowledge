@@ -100,9 +100,20 @@ To enable multi-selection, you have several options:
 * [Sass](https://github.com/nathos/sass-textmate-bundle)
 * [SASS Build](https://github.com/jaumefontal/SASS-Build-SublimeText2)
 
+**PHP**
+
+* [Behat Syntax](https://github.com/omissis/sublime-behat-syntax)
+* [Twig](https://github.com/Anomareh/PHP-Twig.tmbundle) — добавляет поддержку twig синтаксиса. Так же есть в наличии некоторое количество довольно удобных сниппетов.
+
 **Utility**
 
 * [Git](https://github.com/kemayo/sublime-text-2-git)
+* [SublimeAutoSemiColon](https://github.com/LewisW/SublimeAutoSemiColon) — Очень удобный плагин для работы с PHP и JavaScript. Переносит точку с запятой из скобочек в конец строки.
+* [DocBlockr](https://github.com/spadgos/sublime-jsdocs) — плагин упрощающий работу с docblocks. Если для функции указан type hinting тогда и в doc block будут подставленны нужные типы данных.
+* [ToggleQuotes](https://github.com/spadgos/sublime-ToggleQuotes) — меняет `'` на `"`. Для этого надо выбрать необходимую часть текста, вместе с кавычками и нажать `'` если мы хотим заменить двойные кавычки на одинарные и `"` если мы хотим заменить одинарные кавычки на двойные. Так же добавляет довольно удобный хоткей `ctrl+'`, который выделяет фрагмент текста от одной кавычки до другой, соответственно включая эти кавычки.
+* [Nettuts Fetch](https://github.com/weslly/Nettuts-Fetch/tree/master) — позволяет копировать необходимые файлы из сети в проект (например jQuery, twitter-bootstrap). Работает как с отдельными файлам, так и с zip архивами. Можно добавлять свои файлы в список.
+* [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile) — плугин который значительно упрощает создание новых файлов и папок. Для этого надо нажать `cmd+alt+n` и ввести путь до новой папки или файла.
+* [BlockCursor](https://github.com/netpro2k/SublimeBlockCursor) — Самый необходимый плагин! Отображает курсор в виде блока в normal mode для Vintage. Пока что правда не работает для ST3.
 
 ## Console
 
