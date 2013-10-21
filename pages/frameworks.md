@@ -40,6 +40,7 @@ description: "Frameworks that we use in our work"
 создания галерей.
 * [slidesjs][slidesjs] — Простой, но опять же очень удобный jQuery плагин для 
 создания слайдеров контента.
+* [jQuery UI Timepicker][uitimepicker] — удобный плагин для выбора времени.
 
 <!-- Links -->
 [symfony]: http://symfony.com/
@@ -47,3 +48,4 @@ description: "Frameworks that we use in our work"
 [jQuery]: http://jquery.com/
 [prettyPhoto]: http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
 [slidesjs]: http://slidesjs.com/
+[uitimepicker]: https://fgelinas.com/code/timepicker/
