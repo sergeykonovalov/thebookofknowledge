@@ -1,7 +1,3 @@
-# The Book of Knowledge
+# The book of knowledge.
 
-When in doubt consult The Book of Knowledge!
-
-# How to use and contribute
-
-* [Jekyll Manual](http://jekyllrb.com/docs/usage/)
+## We start work on new version of our book.
