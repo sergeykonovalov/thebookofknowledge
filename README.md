@@ -1,3 +1,5 @@
-# The book of knowledge.
+# The Book of Knowledge.
 
-## We start work on new version of our book.
+> When in doubt consult The Book of Knowledge!
+
+The Book of Knowledge (сокращенно TBoK) — база знаний компании [Evercode Lab](http://evercodelab.com).
