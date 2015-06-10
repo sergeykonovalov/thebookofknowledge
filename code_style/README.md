@@ -38,6 +38,7 @@
 
 * Используйте [Symfony Coding Standards](http://symfony.com/doc/current/contributing/code/standards.html) для оформления своего кода
 * Рекомендуется следовать [Symfony Best Practices](http://symfony.com/doc/current/best_practices/index.html)
+* Сервисы НЕ используются в twig. Сервисы НЕ используются в Entity.
 
 ### Twig
 
