@@ -155,7 +155,7 @@
 <img align="center"  src="http://blog.evercodelab.com/assets/images/advent/2/4.jpg" data-caption="вариант логотипа" />
 <img align="center"  src="http://blog.evercodelab.com/assets/images/advent/2/5.jpg" data-caption="вариант логотипа" />
 <img align="center"  src="http://blog.evercodelab.com/assets/images/advent/2/6.jpg" data-caption="вариант логотипа" />
-<img align="center"  src="http://blog.evercodelab.com/assets/images/advent/2/card.jpg" data-caption="вариант визитки" />
+<img align="center"  src="http://blog.evercodelab.com/assets/images/advent/2/card.png" data-caption="вариант визитки" />
 
 
 Третью версию сайта рисовал уже Фарид, лого стало более плоским. 
