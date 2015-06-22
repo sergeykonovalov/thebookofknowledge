@@ -8,6 +8,7 @@ The Book of Knowledge (сокращенно TBoK) — база знаний ко
 ## Содержание
 
 * [О компании](/about/)
+* [Инструменты и сервисы](/instruments/)
 * [Книги](/books/)
 * [Чеклисты](/checklists/)
 * [Code Style](/code_style/)
