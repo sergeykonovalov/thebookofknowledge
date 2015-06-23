@@ -7,24 +7,15 @@
 В этом разделе будут описаны инструменты, которые помогают нам делать нашу работу лучше, удобнее и приятнее, а клиентам понятнее и прозрачнее.
 
 * Общие
-    - Почта
-    - Календарь
-    - Google Drive
+    - [Почта](email.md)
+    - [Календарь](calendar.md)
+    - [Google Drive](google_drive.md)
 * Работа над проектами
-    - Basecamp
-    - YouTrack
-    - Trello
+    - [Basecamp](basecamp.md)
+    - [YouTrack](youtack.md)
+    - [Trello](trello.md)
 * Общение
-    - HipChat
-    - Skype
+    - [HipChat](hipchat.md)
+    - [Skype](skype.md)
 * Работа с кодом
-    - GitHub
-    - SensioLabs Insight
-    - Редакторы кода
-* Сервера
-    - Digital Ocean
-    - New Relic
-    - S3
-* Деньги и отчетность
-    - Эльба
-    - ZenMoney
+    - [GitHub](github.md)
