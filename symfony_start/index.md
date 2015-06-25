@@ -57,11 +57,31 @@
 + [http://symfony.com/doc/current/book/translation.html](http://symfony.com/doc/current/book/translation.html) — переводы
 + [http://symfony.com/doc/current/book/service_container.html](http://symfony.com/doc/current/book/service_container.html) — DI, он же ServiceContainer
 
-Evercode Related
-Отлично! У нас уже есть определённый опыт по тому, как мы работаем с Symfony, по этому можно перейти конкретно к тем практикам, которые мы применяем в Evercode Lab.
+
+## Evercode Related
+Отлично! У нас уже есть определённый опыт по тому, как мы работаем с Symfony, по этому можно перейти конкретно к тем практикам, которые мы применяем в EvercodeLab.
 
 Первое, стиль написание кода [https://github.com/EvercodeLab/thebookofknowledge/tree/master/code_style](https://github.com/EvercodeLab/thebookofknowledge/tree/master/code_style)
 Второе, в целом имеет раскрывает лучшие практики (best practices) которые приняты у нас к работе. Да, они же приняты как лучшие практики Symfony комьюнити [http://symfony.com/doc/current/best_practices/index.html](http://symfony.com/doc/current/best_practices/index.html)
 
 Для ускорения работы, мы используем свою небольшую сборку Symfony [https://github.com/EvercodeLab/symfony-skeleton](https://github.com/EvercodeLab/symfony-skeleton). В целом это тот же Symfony Standart Edition, просто с уже подключёнными бандлами, которые мы обычно используем в своей работе. Кроме того, там у нас есть набор полезных bash скриптов, которые упрощают развертывание проекта на локальной машине, а так же его обновление в процессе разработки. В данный момент у нас есть версия только для «обычного» стэка. В дальнейшем может появиться собранный набор конкретно для работы с API.
+
+### Список бандлов с которыми мы имеем дело
+
+* [SonataAdmin](https://sonata-project.org/bundles/admin/2-3/doc/index.html) – бандл который позволяет довольно быстро сгенерировать стандартную админ панель. Поддерживает большое количество различных функций и кастомизаций.
+* [FosUserBundle](http://symfony.com/doc/master/bundles/FOSRestBundle/index.html) — бандл упрощающий (хотя иногда и усложняющий), работу с различным функционалом, связанным с пользователями. Регистрация, авторизация и прочее, пррочее.
+* [PUGXMultiUserBundle](https://github.com/PUGX/PUGXMultiUserBundle) — данный бандл стыкуется с предыдущим и упрощает работу, если есть необходимость работать не с одной сущностью пользователей, а с несколькими.
+* [KnpMenuBundle](http://symfony.com/doc/master/bundles/KnpMenuBundle/index.html) — облегчает генерацию меню для сайтов и позволяет это делать из одного файла (двух, если считать файл темплейтов)
+* [KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) — генерируем постраничный вывод информации. Простая кастомизация. В комплекте шаблон для бутстрапа.
+* [LiipImagineBundle](http://symfony.com/doc/master/bundles/LiipImagineBundle/index.html) — работа с картинками. Ресайз, наложение фильтров и еще много чего ещё.
+* [VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) — как следует из названия, данный бандл работает с загрузкой файлов. Из удобных моментов стоит отметить возможность добавлять тип поля формы, который сразу будет выводить превью картинки, если есть какая-то загруженная.
+* [DoctrineFixturesBundle](http://symfony.com/doc/master/bundles/DoctrineFixturesBundle/index.html) — работа с фикстурами данных (данными, которые загружаются в базу данных для примера)
+* [DoctrineMigrationsBundle](http://symfony.com/doc/master/bundles/DoctrineMigrationsBundle/index.html) — по умолчанию, для сохранения процесса внесения изменений в структуру базы данных, мы используем миграции.
+* [FOSRestBundle](http://symfony.com/doc/master/bundles/FOSRestBundle/index.html) — упрощаем и ускрояем разработку API. В целом полезный бандл, хотя есть нарекания, особенно на довольно серьёзную монструозность и комбайность.
+* [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle/blob/master/Resources/doc/index.md) – данный бандл, в целом, работает в связке с предыдущим. Он добавляет возможность генерации АПИ документации на основе той информации, которую мы указываем в качестве DockBlock для каждого метода.
+* [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) — третий основной бандл, который помогает разрабатывать API.
+* [FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/blob/master/Resources/doc/index.md) — позволяет генерировать правильные роуты прямо в JS.
+* [DoctrineExtensions](https://github.com/Atlantic18/DoctrineExtensions) – добавляет крутой дополинетльный функционал для работы с Doctrine. Timestampable, Sluggable, etc.
+
+## Advanced reading
 
