@@ -3,7 +3,7 @@
 ## Сотруднику
 
 * Получить аккаунты и доступы в сервисах компании
-    * почта на домене evercodelab.com
+    * почта на домене evercodelab.com в формате имя.ф@evercodelab.com, где ф — первая буква фамилии
     * hipchat
     * github (добавиться в команду EvercodeLab/team)
     * basecamp
