@@ -12,7 +12,7 @@
     - [Google Drive](google_drive.md)
 * Работа над проектами
     - [Basecamp](basecamp.md)
-    - [YouTrack](youtack.md)
+    - [YouTrack](youtrack.md)
     - [Trello](trello.md)
 * Общение
     - [HipChat](hipchat.md)
