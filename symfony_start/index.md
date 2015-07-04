@@ -56,7 +56,7 @@
 + [http://symfony.com/doc/current/book/security.html](http://symfony.com/doc/current/book/security.html) — security
 + [http://symfony.com/doc/current/book/translation.html](http://symfony.com/doc/current/book/translation.html) — переводы
 + [http://symfony.com/doc/current/book/service_container.html](http://symfony.com/doc/current/book/service_container.html) — DI, он же ServiceContainer
-
+* [http://symfony.com/doc/current/book/testing.html](http://symfony.com/doc/current/book/testing.html) — все, что касается тестирования в Symfony.
 
 ## Evercode Related
 Отлично! У нас уже есть определённый опыт по тому, как мы работаем с Symfony, по этому можно перейти конкретно к тем практикам, которые мы применяем в EvercodeLab.
@@ -83,5 +83,19 @@
 * [FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle/blob/master/Resources/doc/index.md) — позволяет генерировать правильные роуты прямо в JS.
 * [DoctrineExtensions](https://github.com/Atlantic18/DoctrineExtensions) – добавляет крутой дополинетльный функционал для работы с Doctrine. Timestampable, Sluggable, etc.
 
-## Advanced reading
+## Aditional tools
+Кроме основных тем, которые требуются непосредственно для понимания того, как работает симфония, есть ещё ряд дополнительных ресурсов, которые используются в нашей работе и влияют на общий стек.
 
+* [Composer](https://getcomposer.org/doc/) — инструмент для управления зависимостями. Необходим как воздух, по этому очень важно знать, как с ним работать.
+* [https://packagist.org/](https://packagist.org/), [http://knpbundles.com/](http://knpbundles.com/) – если у нас есть инструмент для управления зависимостями, то нам нужно где-то искать эти самые зависимости. Эти два сайта прекрасно справляются с этим. На первом можно найти вообще все, что можно «поставить» с помошью композера, второй больше Symfony related.
+* [https://security.sensiolabs.org/](https://security.sensiolabs.org/), [https://insight.sensiolabs.com/](https://insight.sensiolabs.com/), [http://cs.sensiolabs.org/](http://cs.sensiolabs.org/) — SensioLabs, кроме непосредственно разработки Symfony так же занимается разработкой дополнительных утилит для своего фреймворка. Желательно со всеми ознакомится и иметь ввиду
+* [http://capifony.org/](http://capifony.org/) — для деплоя (развертывания приложения на сервере), мы используем утилиту, которая называется capifony. Она полностью покрывает наши текущие необходимости по деплою.
+
+## Advanced topics
+Конечно, на этом ещё не всё ;) Этот раздел будет постепенно обновляться и дополняться различными статьями и книгами, которые подробнее рассказывают о тех или иных аспектах работы с Symfony
+
+* [Create your own framework... on top of the Symfony2 Components](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html) — серия постов Fabien Potencier в которой он рассказывает о том, как собрать свой собственный фреймворк из Symfony компонентов.
+* [Symfony2 components overview](http://blog.servergrove.com/tag/symfony2-components/) — так же серия статей, которая более подробно рассматривает различные компоненты в отдельности.
+* [The Symfony Components](http://symfony.com/doc/current/components/index.html) — если мы говорим про компоненты Symfony, то не стоит забывать и про официальную документацию. В ней можно найти исчерпывающую информацию по этим темам.
+* [The Symfony Cookbook](http://symfony.com/doc/current/cookbook/index.html) — дополнительная документация с различными how-to, по тем или иным разделам.
+* [A Year With Symfony](https://leanpub.com/a-year-with-symfony) — отличная книга, которая раскрывает некоторые моменты по разработке приложений с Symfony.
