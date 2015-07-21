@@ -1,9 +1,11 @@
 ---
 layout: page
-title: The Book of Knowledge
-tagline: 
+title: The Book of Knowledge (проект переехал)
+tagline:
 ---
 {% include JB/setup %}
+
+**Эта версия TBoK устарела и больше не поддерживается. Актуальная версия [The Evercode Lab Book of Knowledge](https://github.com/EvercodeLab/thebookofknowledge) находится прямо в репозитории на github.**
 
 The book of knowledge – база знаний компании [Evercode Lab](http://evercodelab.com). Любой участник команды, может добавить в проект данные, которые считает полезными для себя и других. Любой посетитель сайта может предложить свои добавления либо через комментарии, либо через issues или pull request на [github](https://github.com/EvercodeLab/thebookofknowledge).
 
