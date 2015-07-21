@@ -16,4 +16,3 @@ The Book of Knowledge (сокращенно TBoK) — база знаний ко
 * [Начинаем работу с Symfony](/symfony_start/)
 * [Code Style](/code_style/)
 * [Git](/git/)
-* [Книги](/books/)
