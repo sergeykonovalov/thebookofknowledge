@@ -1,4 +1,5 @@
 # Запуск проекта
+
 ## (до запуска)
 
 * Согласовать список задач, которые должны быть сделаны до запуска
@@ -53,7 +54,7 @@
 * Разделить ветки
 
 Полезные источники:
-[http://habrahabr.ru/post/65674/](http://habrahabr.ru/post/65674/)  
-[http://blog.sibirix.ru/2014/05/12/pre-launch-cheklist/](http://blog.sibirix.ru/2014/05/12/pre-launch-cheklist/)  
-[https://docs.google.com/spreadsheet/ccc?key=0AmJhu-omrPVqdEdDRGNyZTBZY3B4R1JRTGp6SGVoc0E&hl=ru#gid=0](https://docs.google.com/spreadsheet/ccc?key=0AmJhu-omrPVqdEdDRGNyZTBZY3B4R1JRTGp6SGVoc0E&hl=ru#gid=0)  
-[http://blog.cubeline.ru/chek-list-45-punktov-dlya-proverki-sajta-pered-zapuskom.html](http://blog.cubeline.ru/chek-list-45-punktov-dlya-proverki-sajta-pered-zapuskom.html)
+* [«Чеклист запуска сайта» ](http://habrahabr.ru/post/65674/) на Хабре
+* [«Запускаем готовый сайт: пре-лаунч чеклист»](http://blog.sibirix.ru/2014/05/12/pre-launch-cheklist/) от компании Сибирикс
+* [Sibirix-Launchlist-v.01](https://docs.google.com/spreadsheet/ccc?key=0AmJhu-omrPVqdEdDRGNyZTBZY3B4R1JRTGp6SGVoc0E&hl=ru#gid=0)  
+[«Чеклист: 45 пунктов для проверки сайта перед запуском»](http://blog.cubeline.ru/chek-list-45-punktov-dlya-proverki-sajta-pered-zapuskom.html) от компании CubeLine
