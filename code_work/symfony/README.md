@@ -1,3 +1,3 @@
 # Работа с Symfony
 
-* [Starting with Symfony](symfony/symfony_start)
+* [Starting with Symfony](symfony_start/)
