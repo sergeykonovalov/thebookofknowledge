@@ -194,4 +194,3 @@ dotfiles. Там же можно посмотреть и на gitconfig.
   http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 ##Дополнительная литература
-)
