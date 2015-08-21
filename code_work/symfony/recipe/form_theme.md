@@ -1,6 +1,6 @@
 # Создание и использование кастомных тем для форм в Symfony
 
-Самое замечательное в том, как выводятся формы в Symfony заключается в том, что любой компонент может быть кастомизирован, причём делается это очень просто.
+Так как формы в Symfony состоят из отдельных компонентов, это позволяет нам довольно легко изменять их под свои нужды и дизайн.
 
 Для начала можно посмотреть на код уже встроенных в Symfony сниппетов для форм: [стандартный div layout](https://github.com/symfony/symfony/blob/master/src/Symfony/Bridge/Twig/Resources/views/Form/form_div_layout.html.twig), [bootstrap 3](https://github.com/symfony/symfony/blob/master/src/Symfony/Bridge/Twig/Resources/views/Form/bootstrap_3_layout.html.twig)
 
