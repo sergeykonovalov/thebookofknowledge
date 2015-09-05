@@ -44,7 +44,7 @@
 
 У нас в Evercode Lab уже есть определённый опыт по работе с Symfony, далее немного об этом.
 
-* [стиль написание кода](https://github.com/EvercodeLab/thebookofknowledge/tree/master/code_style) и наши пополняемые best practices
+* [стиль написания кода](https://github.com/EvercodeLab/thebookofknowledge/blob/master/code_work/code_style.md) и наши пополняемые best practices
 * мы разделяем [Symfony Best Practices](http://symfony.com/doc/current/best_practices/index.html)
 * для ускорения работы мы используем [свою небольшую сборку Symfony](https://github.com/EvercodeLab/symfony-skeleton). Это тот же Symfony Standart Edition с уже подключенными бандлами, которые мы обычно используем в своей работе. Там же есть набор полезных bash скриптов, которые упрощают развертывание проекта на локальной машине и его обновление в процессе разработки. В данный момент у нас есть версия только для «обычного» стэка. В дальнейшем может появиться собранный набор конкретно для работы с API.
 
