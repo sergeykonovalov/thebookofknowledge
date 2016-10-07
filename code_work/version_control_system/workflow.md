@@ -15,3 +15,4 @@
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 * [Git-flow](http://nvie.com/posts/a-successful-git-branching-model/)
 * [GitHub Flow](https://habrahabr.ru/post/189046/)
+* [Шпаргалка по git-flow](http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
