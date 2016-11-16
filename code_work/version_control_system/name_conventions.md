@@ -26,3 +26,4 @@
 
 ## Дополнительная литература
 * http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+* Про порядок наименования версий - http://semver.org/
