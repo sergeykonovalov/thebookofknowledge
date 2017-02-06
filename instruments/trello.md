@@ -39,3 +39,8 @@ Trello преимущественно используют менеджеры. �
     - Result
 * Plan — стратегические планы
 
+## Полезные chrome-расширения для trello
+
+- [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje) - позволяет отмечать стори-поинты для задач
+- [Trello Card Numbers](https://chrome.google.com/webstore/detail/trello-card-numbers/kadpkdielickimifpinkknemjdipghaf) - выводит номера задач прямо в заголовке
+
