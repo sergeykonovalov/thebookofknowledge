@@ -11,11 +11,9 @@
     - [Календарь](calendar.md)
     - [Google Drive](google_drive.md)
 * Работа над проектами
-    - [Basecamp](basecamp.md)
-    - [YouTrack](youtrack.md)
     - [Trello](trello.md)
 * Общение
-    - [HipChat](hipchat.md)
+    - [Slack](slack.md)
     - [Skype](skype.md)
 * Работа с кодом
     - [GitHub](github.md)
