@@ -4,6 +4,7 @@
     * [Рецепты](symfony/recipe/)
     * [Starting with Symfony](symfony/symfony_start.md)
 * [Code styles](code_style.md) 
+* [Composer style](composer_style.md) 
 * [Система контроля версий](version_control_system/)
 	* [Сценарий разработки](version_control_system/workflow.md)
 	* [Code review](version_control_system/code_review.md)
