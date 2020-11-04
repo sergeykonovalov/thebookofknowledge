@@ -4,11 +4,9 @@
 
 * Получить аккаунты и доступы в сервисах компании
     * почта на домене evercodelab.com в формате имя.ф@evercodelab.com, где ф — первая буква фамилии
-    * hipchat
-    * github (добавиться в команду EvercodeLab/team)
-    * basecamp
-    * youtrack
-    * trello
+    * Slack
+    * GitHub (добавиться в команду EvercodeLab/team)
+    * Trello
     * общие папки в Google Drive компании (Common)
     * общая рассылка Google Groups
     * Google календарь (расшарить свой, добавить коллег)
@@ -30,10 +28,8 @@
 ## Менеджеру
 
 * Создать аккаунты и выдать доступы
-    * github (добавиться в команду EvercodeLab/team)
-    * basecamp
-    * youtrack
-    * trello
+    * GitHub (добавиться в команду EvercodeLab/team)
+    * Trello
     * общие папки в Google Drive компании (Common)
     * Google календарь (показать-объяснить воркфлоу)
 * Убедиться в знакомстве с The Book of Knowledge и дорассказать необходимое
@@ -46,8 +42,8 @@
 
 * Создать аккаунты и выдать доступы
     * почта на домене evercodelab.com
-    * hipchat
-    * trello
+    * Slack
+    * Trello
     * общая рассылка Google Groups
 * Организовать рабочее место
 * Познакомить с коллегами
